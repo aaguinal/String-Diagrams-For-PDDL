@@ -1,4 +1,6 @@
-# String-Diagrams-For-PDDL
+# String Diagrams For PDDL
+
+![Alt text](./figures/smc.dot.svg)
 
 This contains the code accompanying the talk "A Graphical, Model-Based Representation for PDDL using Category Theory" given during [ICAPS XAIP Workshop 2021](http://xaip.mybluemix.net/#/).
 
@@ -8,6 +10,9 @@ The software requirements include:
 - Julia 1.3.1
 - Catlab 0.5.3
 - Your OS requirements for Latex
+
+
+
 
 
 
